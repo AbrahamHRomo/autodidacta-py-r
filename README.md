@@ -4,6 +4,7 @@ Aprendizaje deliberado de **Python** y **R** viniendo de **C**.
 
 > Nombre del proyecto: **autodidacta Py R**. Carpeta y repo remoto:
 > `autodidacta-py-r` (GitHub no admite espacios en el nombre del repositorio).
+> Repo: <https://github.com/AbrahamHRomo/autodidacta-py-r>
 
 Este repo no es una colección de tutoriales: es el registro de un plan con
 entregables y evidencia. **Si una semana no deja un commit con algo que corre,

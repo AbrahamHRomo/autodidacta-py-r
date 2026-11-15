@@ -6,7 +6,7 @@ Marcar con `x` solo cuando el artefacto corre. Fecha real, no estimada.
 
 | # | Fase | Foco | Artefacto | Hecho | Fecha | Commit |
 |---|---|---|---|---|---|---|
-| 1 | 0 | Entorno + hola mundo x3 | — | [ ] | | |
+| 1 | 0 | Entorno + hola mundo x3 | — | [x] | 2026-11-15 | 3d5cbb9 |
 | 2 | 1 | Tipos y referencias | ejercicios 1–5 | [ ] | | |
 | 3 | 1 | Funciones y módulos | CLI de archivos | [ ] | | |
 | 4 | 1 | Colecciones y errores | parser CSV | [ ] | | |

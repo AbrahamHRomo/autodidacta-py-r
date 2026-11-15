@@ -186,7 +186,7 @@ gh repo create autodidacta-py-r --public --source=. --remote=origin --push
 Si el repo ya existe vacío en GitHub:
 
 ```bash
-git remote add origin git@github.com:TU_USUARIO/autodidacta-py-r.git
+git remote add origin git@github.com:AbrahamHRomo/autodidacta-py-r.git
 git push -u origin main
 ```
 

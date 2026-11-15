@@ -20,7 +20,7 @@ y commiteado. Hay tres variantes: elegir **una** según el puesto.
 
 - **Analizador de logs en 3 lenguajes** — misma especificación implementada en C,
   Python y R; comparación documentada de ergonomía, manejo de errores y tiempo de
-  ejecución. <https://github.com/TU_USUARIO/autodidacta-py-r>
+  ejecución. <https://github.com/AbrahamHRomo/autodidacta-py-r>
 - **Análisis de <dataset>** — pipeline de limpieza y análisis con pandas y R,
   informe reproducible en Quarto con <N> gráficos y <N> hallazgos.
   <enlace>
@@ -75,7 +75,8 @@ y commiteado. Hay tres variantes: elegir **una** según el puesto.
 **Projects**
 
 - **Log analyzer in 3 languages** — same spec implemented in C, Python and R, with
-  a documented comparison of ergonomics, error handling and runtime. <link>
+  a documented comparison of ergonomics, error handling and runtime.
+  <https://github.com/AbrahamHRomo/autodidacta-py-r>
 - **<Dataset> analysis** — cleaning and analysis pipeline in pandas and R;
   reproducible Quarto report with <N> charts. <link>
 
