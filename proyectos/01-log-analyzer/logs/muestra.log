@@ -1,0 +1,24 @@
+2026-11-10 08:00:01 INFO  auth    - servicio iniciado en puerto 8080
+2026-11-10 08:00:02 INFO  db      - conexión establecida pool=10
+2026-11-10 08:00:03 DEBUG cache   - precarga de claves completada
+2026-11-10 08:01:12 INFO  auth    - login ok user=ana
+2026-11-10 08:01:15 INFO  auth    - login ok user=beto
+2026-11-10 08:02:40 WARN  db      - consulta lenta 1200ms tabla=pedidos
+2026-11-10 08:03:02 INFO  auth    - logout user=ana
+2026-11-10 08:04:11 ERROR auth    - credenciales inválidas user=desconocido
+2026-11-10 08:04:12 INFO  auth    - login ok user=caro
+2026-11-10 08:05:33 DEBUG cache   - hit ratio 0.87
+2026-11-10 08:06:01 INFO  pedidos - pedido creado id=10231
+2026-11-10 08:06:02 INFO  pedidos - pedido creado id=10232
+2026-11-10 08:07:45 WARN  db      - consulta lenta 1850ms tabla=clientes
+2026-11-10 08:08:10 ERROR pedidos - stock insuficiente id=10233
+2026-11-10 08:09:00 INFO  auth    - login ok user=dani
+2026-11-10 08:10:22 ERROR auth    - token expirado user=beto
+2026-11-10 08:11:05 INFO  pedidos - pedido creado id=10234
+2026-11-10 08:12:30 WARN  cache   - memoria al 80%
+2026-11-10 08:13:00 INFO  auth    - logout user=caro
+2026-11-10 08:13:44 ERROR auth    - credenciales inválidas user=desconocido
+2026-11-10 08:14:10 ERROR pedidos - stock insuficiente id=10235
+2026-11-10 08:15:00 INFO  db      - conexión cerrada pool=10
+2026-11-10 08:15:01 INFO  auth    - servicio detenido
+2026-11-10 08:16:20 DEBUG cache   - flush completado

@@ -1,0 +1,31 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.ruff_cache/
+
+# R
+.Rhistory
+.Rapp.history
+.RData
+.Rproj.user/
+renv/library/
+*.Rproj
+
+# Quarto / documentos
+.quarto/
+_site/
+*.html.tmp
+
+# Compilados de C
+*.o
+*.out
+hola_c
+log_c
+
+# Sistema / editor
+.DS_Store
+*.swp
+*~
